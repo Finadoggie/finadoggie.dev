@@ -53,8 +53,8 @@ a {
 }
 
 #links a:hover {
-    filter:drop-shadow(0 0 2px rgb(255, 210, 227));
-    -webkit-filter:drop-shadow(0 0 2px rgb(255, 210, 227));
+    filter:drop-shadow(0 0 3px rgb(255, 210, 227));
+    -webkit-filter:drop-shadow(0 0 3px rgb(255, 210, 227));
 }
 
 #socials {
@@ -78,8 +78,8 @@ a {
     -o-transition: 0.3s;
 }
 #socials a img:hover {
-    filter:drop-shadow(0 0 2px rgb(255, 210, 227));
-    -webkit-filter:drop-shadow(0 0 2px rgb(255, 210, 227));
+    filter:drop-shadow(0 0 4px rgb(255, 210, 227));
+    -webkit-filter:drop-shadow(0 0 4px rgb(255, 210, 227));
 }
 .icon {
     width: 2.5rem;
