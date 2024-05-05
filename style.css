@@ -44,7 +44,7 @@ a {
 
 #links, #links a {
     padding: 0px 8px;
-    overflow: hidden;
+    overflow: visible;
 }
 
 #socials {
